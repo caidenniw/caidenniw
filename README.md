@@ -1,6 +1,33 @@
-# 💫 About Me:
+# 👋 Hi, I'm Deni Arya Winaldi
 
-👨‍💻 Saya sering mengerjakan berbagai macam proyek, tapi kebanyakan berhubungan dengan dunia sekolah — mulai dari sistem informasi sederhana sampai aplikasi web berbasis Laravel. <br>💻 Teknologi yang paling sering saya pakai saat ini adalah PHP dan Laravel, tapi saya juga sedang belajar stack MEVN dan mulai tertarik dengan dunia teknologi Web3.<br><br>🤝 Saya terbuka untuk belajar dan berkolaborasi di bidang apa saja, terutama kalau bisa membantu saya meningkatkan skill. Saat ini saya ingin lebih dalam di bagian backend dan API development.<br><br>🌱 Saya sedang fokus mengembangkan kemampuan di stack MEVN dan eksplorasi teknologi web modern. Kalau ada yang mau ngobrol seputar Laravel, saya dengan senang hati berbagi!<br><br>⚡ Fun fact: Saya suka ngulik teknologi dan juga suka main game di waktu senggang 😄<br>
+I'm a passionate **Front End Developer** who loves turning ideas into interactive and visually engaging digital experiences.  
+I enjoy exploring new technologies, learning continuously, and bringing concepts to life through clean and functional code.
+
+---
+
+## 🧠 About Me
+- 💻 Focused on **Front End Development**  
+- 🧪 Actively learning **MEVN Stack** & exploring **Web3 technologies**  
+- ⚡ Experienced in working on **school-based projects** and practical applications  
+- 🛠️ Mostly code with **PHP (Laravel)**, but always eager to broaden my tech stack  
+- 🎮 Tech tinkerer & gamer in my free time
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, PHP  
+- **Frameworks & Libraries:** Laravel, Vue.js (learning), Bootstrap  
+- **Tools:** Git, GitHub, VS Code, Android Studio, Figma  
+
+---
+
+## 🌐 Let's Connect
+- 📫 Email: [deni01arya02@gmail.com](mailto:deni01arya02@gmail.com)  
+
+---
+
+⭐ *“Code isn’t just about solving problems — it’s about creating something meaningful.”*  
+
 
 ## 🌐 Socials:
 
