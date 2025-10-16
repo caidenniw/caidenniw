@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Deni Arya Winaldi
 
-I'm a passionate **Front End Developer** who loves turning ideas into interactive and visually engaging digital experiences.  
-I enjoy exploring new technologies, learning continuously, and bringing concepts to life through clean and functional code.
+I'm a junior **Full Stack Developer** in progress, passionate about turning ideas into full-featured web applications.
+I love exploring new technologies and growing through hands-on projects and continuous learning.
 
 ---
 
 ## 🧠 About Me
-- 💻 Focused on **Front End Development**  
+- 💻 Focused on **Full Stack Development**  
 - 🧪 Actively learning **MEVN Stack** & exploring **Web3 technologies**  
 - ⚡ Experienced in working on **school-based projects** and practical applications  
 - 🛠️ Mostly code with **PHP (Laravel)**, but always eager to broaden my tech stack  
@@ -17,7 +17,7 @@ I enjoy exploring new technologies, learning continuously, and bringing concepts
 ## 🛠️ Tech Stack
 - **Languages:** HTML, CSS, JavaScript, PHP  
 - **Frameworks & Libraries:** Laravel, Vue.js (learning), Bootstrap  
-- **Tools:** Git, GitHub, VS Code, Android Studio, Figma  
+- **Tools:** Git, GitHub, VS Code, Canva, Figma  
 
 ---
 
