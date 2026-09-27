@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub Stats">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #61AFEF; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E5C06E; }
+    .rank { font: 800 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: #61AFEF; }
+    .rank-label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B909A; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#23272E" stroke="#3B4048"/>
+  <text class="header" x="25" y="32">caidenniw's GitHub Stats</text>
+  <text class="stat" x="25" y="55">Total Stars:</text><text class="stat" x="210" y="55">0</text><text class="stat" x="25" y="80">Total Commits:</text><text class="stat" x="210" y="80">296</text><text class="stat" x="25" y="105">Total PRs:</text><text class="stat" x="210" y="105">4</text><text class="stat" x="25" y="130">Total Issues:</text><text class="stat" x="210" y="130">0</text><text class="stat" x="25" y="155">Contributed to:</text><text class="stat" x="210" y="155">28</text>
+  <circle cx="410" cy="100" r="42" fill="none" stroke="#3B4048" stroke-width="6"/>
+  <circle cx="410" cy="100" r="42" fill="none" stroke="#C678DD" stroke-width="6"
+          stroke-dasharray="58.1 263.9" stroke-linecap="round"
+          transform="rotate(-90 410 100)"/>
+  <text class="rank" x="410" y="106" text-anchor="middle">C</text>
+  <text class="rank-label" x="410" y="162" text-anchor="middle">Rank</text>
+</svg>

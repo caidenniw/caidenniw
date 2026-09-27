@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="193" viewBox="0 0 300 193" role="img" aria-label="Top Languages">
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #61AFEF; }
+    .lang { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E5C06E; }
+  </style>
+  <rect x="0.5" y="0.5" width="299" height="192" rx="4.5" fill="#23272E" stroke="#3B4048"/>
+  <text class="header" x="16" y="28">Most Used Languages</text>
+  <text class="lang" x="16" y="48">PHP 37.0%</text><rect x="16" y="54" width="268" height="8" rx="4" fill="#2B3038"/><rect x="16" y="54" width="92.6" height="8" rx="4" fill="#4F5D95"/><text class="lang" x="16" y="70">Blade 34.9%</text><rect x="16" y="76" width="268" height="8" rx="4" fill="#2B3038"/><rect x="16" y="76" width="87.2" height="8" rx="4" fill="#f7523f"/><text class="lang" x="16" y="92">CSS 12.0%</text><rect x="16" y="98" width="268" height="8" rx="4" fill="#2B3038"/><rect x="16" y="98" width="29.9" height="8" rx="4" fill="#663399"/><text class="lang" x="16" y="114">TypeScript 9.6%</text><rect x="16" y="120" width="268" height="8" rx="4" fill="#2B3038"/><rect x="16" y="120" width="24.1" height="8" rx="4" fill="#3178c6"/><text class="lang" x="16" y="136">JavaScript 3.7%</text><rect x="16" y="142" width="268" height="8" rx="4" fill="#2B3038"/><rect x="16" y="142" width="9.3" height="8" rx="4" fill="#f1e05a"/><text class="lang" x="16" y="158">HTML 2.8%</text><rect x="16" y="164" width="268" height="8" rx="4" fill="#2B3038"/><rect x="16" y="164" width="6.9" height="8" rx="4" fill="#e34c26"/>
+</svg>

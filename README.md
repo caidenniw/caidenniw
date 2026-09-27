@@ -39,13 +39,13 @@ I love exploring new technologies and growing through hands-on projects and cont
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=caidenniw&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=caidenniw&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caidenniw&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](./profile/stats.svg)
+![GitHub Streak](./profile/streak.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=caidenniw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](./profile/trophy.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caidenniw/caidenniw/output/pacman-contribution-graph-dark.svg">

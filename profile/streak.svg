@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub Streak">
+  <style>
+    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E5C06E; }
+    .num { font: 800 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #61AFEF; }
+    .curr { font: 800 40px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C678DD; }
+    .curr-label { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #61AFEF; }
+    .dates { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B909A; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#23272E" stroke="#3B4048"/>
+  <g text-anchor="middle">
+    <text class="num" x="82" y="88">475</text>
+    <text class="label" x="82" y="112">Total Contributions</text>
+    <text class="dates" x="82" y="132">01 Jan 2023 - 27 Sep 2026</text>
+
+    <circle cx="247" cy="62" r="22" fill="none" stroke="#C678DD" stroke-width="3"/>
+    <text class="curr" x="247" y="118">6</text>
+    <text class="curr-label" x="247" y="142">Current Streak</text>
+    <text class="dates" x="247" y="162">22 Sep 2026 - 27 Sep 2026</text>
+
+    <text class="num" x="412" y="88">10</text>
+    <text class="label" x="412" y="112">Longest Streak</text>
+    <text class="dates" x="412" y="132">13 Oct 2025 - 22 Oct 2025</text>
+  </g>
+</svg>
